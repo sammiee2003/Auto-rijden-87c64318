@@ -2,7 +2,7 @@
 
 $age = readline("vul je leeftijd in");
 
-if($age >= 16.5){
+if ($age >= 16.5){
 
     echo "jij mag beginnen aan je rijbewijs";
 }else{
